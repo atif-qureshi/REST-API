@@ -1,0 +1,20 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/atif-qureshi/REST-API#readme",
+  "bugs": {
+    "url": "https://github.com/atif-qureshi/REST-API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atif-qureshi/REST-API.git"
+  },
+  "license": "ISC",
+  "author": "Atif Qureshi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
